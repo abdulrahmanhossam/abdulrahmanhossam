@@ -27,9 +27,9 @@ Clean Architecture, CQRS, DDD, SOLID, Design Patterns, OOP, Algorithms, Networki
 
 ## Contact
 
-* **Portfolio:** [abdulrahman.github.io](https://modev.me)
-* **LinkedIn:** [linkedin.com/in/abdulrahman](https://linkedin.com/in/mohammedtv)
-* **GitHub:** [github.com/abdulrahman](https://github.com/Mo7ammedd)
+* **Portfolio:** [abdulrahman.github.io](https://abdulrahmanhossam.github.io/)
+* **LinkedIn:** [linkedin.com/in/abdulrahman](https://www.linkedin.com/in/abdulrahman-hossam-0ba758285/)
+* **GitHub:** [github.com/abdulrahman](https://github.com/abdulrahmanhossam)
 
 ---
 
