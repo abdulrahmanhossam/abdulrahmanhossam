@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**abdulrahmanhossam/abdulrahmanhossam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Abdulrahman Hossam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Software Engineer | Backend Developer | Open-Source Contributor**
+
+I am a backend-focused Software Engineer experienced in designing and building scalable, secure, and high-performance systems. I specialize in **.NET Core**, with a strong foundation in data structures, algorithms, and system design.
+
+
+---
+
+## Technical Skills
+
+**Languages & Frameworks:**
+C#, ASP.NET Core, java, Go, C
+
+**Databases:**
+SQL Server, PostgreSQL, MySQL, SQLite
+
+**DevOps & Tools:**
+Docker, Redis, Git, Linux, Postman
+
+**Core Concepts:**
+Clean Architecture, CQRS, DDD, SOLID, Design Patterns, OOP, Algorithms, Networking, Distributed Systems
+
+---
+
+## Contact
+
+* **Portfolio:** [abdulrahman.github.io](https://modev.me)
+* **LinkedIn:** [linkedin.com/in/abdulrahman](https://linkedin.com/in/mohammedtv)
+* **GitHub:** [github.com/abdulrahman](https://github.com/Mo7ammedd)
+
+---
+
+
