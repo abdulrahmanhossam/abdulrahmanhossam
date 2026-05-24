@@ -30,6 +30,7 @@ Clean Architecture, CQRS, DDD, SOLID, Design Patterns, OOP, Algorithms, Networki
 * **Portfolio:** [abdulrahman.github.io](https://abdulrahmanhossam.github.io/)
 * **LinkedIn:** [linkedin.com/in/abdulrahman](https://www.linkedin.com/in/abdulrahman-hossam-0ba758285/)
 * **GitHub:** [github.com/abdulrahman](https://github.com/abdulrahmanhossam)
+* **Email:** [ahossam.tech@gmail.com](mailto:ahossam.tech@gmail.com)
 
 ---
 
